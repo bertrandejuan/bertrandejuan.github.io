@@ -61,12 +61,14 @@ skills:
     - Canva
     - Mega 11
   - category: Manufactoring
+    tools:
     - 3d Printing
     - Laser Cutting
     - Metal Casting
     - Woodwork
     - Hand and Powertools
   - catergory: Computer Skills
+    tools:
     - Microsoft 365
     - Word
     - Excel
@@ -74,6 +76,7 @@ skills:
     - Teams
     - Google Workspace
   - category: Languages
+    tools:
     - Chinese (Fluent)
     - English (Native)
 

@@ -4,7 +4,7 @@
 # which you are expected to set up once and rarely edit after that. If you find
 # yourself editing this file very often, consider using Jekyll's data files
 # feature for the data you need to update frequently.
-
+timezone: America/New_York
 # Main Page Setup
 
 title: Bertrand Juan's Portfolio # This is what shows up in the tab of the browser
@@ -18,6 +18,7 @@ description: >- # dont remove this line. this will ignore all new lines until th
   Write an awesome intro and discuss your highlights and qualification. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
+hero_image: ./assets/images/bg.webp
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpg
@@ -42,6 +43,7 @@ external-links:    # input only your own url slug. The icons with missing entrie
   discord:            # https://discord.com/users/{your url slug} 
   bluesky:           # https://bsky.app/profile/{your url slug} 
   lichess: /@/doomer222 # https://lichess.org/@/{your url slug}
+  strava: 172431806      # https://www.strava.com/athletes/{your url slug}
   
 
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 

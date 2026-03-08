@@ -18,7 +18,7 @@ description: >- # dont remove this line. this will ignore all new lines until th
   Write an awesome intro and discuss your highlights and qualification. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-hero_image: ./assets/images/bg.webp
+hero_image: ./assets/images/bg.jpg
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpg
